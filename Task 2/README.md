@@ -42,4 +42,4 @@ This email template promotes BookMart’s latest book arrivals and highlights ke
 - Minimal and user-friendly layout
 
 ## Figma Link
-(Paste your Figma link here)
+https://www.figma.com/proto/PdxbNFKVDBHKYgY6D9yswW/ONLINE-BOOK-STORE-PROJECT?node-id=0-1&t=mP4I1tk8uGsbzs6F-1
